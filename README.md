@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Game hacking and reverse engineering.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/LigaTheNamer)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/LigaTheNamer)
 
 - 💬 Ask me about **Anything related to programming**
 
