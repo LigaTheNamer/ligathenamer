@@ -9,3 +9,5 @@
 - 💬 Ask me about **Anything related to programming**
 
 - 📫 How to reach me **liga@wednesday.wtf**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linux-fryer&show_icons=true&theme=dark)
