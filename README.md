@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liga</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=linux-fryer&show_icons=true&theme=dark">
-</p>
-
-<p align="center">
 - 👨‍💻 All of my projects are available at <b>https://github.com/linux-fryer</b>
 </p>
 <p align="center">
