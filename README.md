@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Liga</h1>
 
-- 🔭 I’m currently working on [Project development for wednesday.wtf](https://wednesday.wtf/)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=linux-fryer&show_icons=true&theme=dark">
+</p>
 
-- 🌱 I’m currently learning **Game hacking and reverse engineering.**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/linux-fryer)
-
-- 💬 Ask me about **Anything related to programming**
-
-- 📫 How to reach me **liga@wednesday.wtf**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linux-fryer&show_icons=true&theme=dark)
+<p align="center">
+- 👨‍💻 All of my projects are available at <b>https://github.com/linux-fryer</b>
+</p>
+<p align="center">
+  - 🌱 I’m currently learning <b>Game hacking and reverse engineering.</b>
+</p>
+<p align="center">
+- 🔭 I’m currently working on <b>https://wednesday.wtf/</b>
+</p>
+<p align="center">
+- 💬 Ask me about <b>Anything related to programming</b>
+</p>
+<p align="center">
+- 📫 How to reach me <b>liga@wednesday.wtf</b>
+</p>
